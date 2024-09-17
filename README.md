@@ -9,4 +9,4 @@ This is a boilerplate or template for creating awesome SPA(Single Page Applicato
 - Plain vanilla Web components
 
 
-For more information about building Plain Vanilla web apps, please follow this [website](plainvanillaweb.com)
+For more information about building Plain Vanilla web apps, please follow this [website](https://plainvanillaweb.com)
